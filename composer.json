@@ -1,0 +1,16 @@
+{
+    "name": "umbalaconmeogia/php-test-data",
+    "description": "Utility to generate test data.",
+    "keywords": ["php", "test", "data"],
+    "homepage": "http://www.github.com/umbalaconmeogia/php-test-data",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tran Trung Thanh",
+            "email": "umbalaconmeogia@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"umbalaconmeogia\\testdata\\": "src/"}
+    }
+}
